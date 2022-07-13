@@ -3,7 +3,7 @@
 ### Quick start
 
 ```
-git clone git@github.com:jdoss/slack-repo.git
+git clone https://github.com/ripeurs/slack-repo.git
 cd slack-repo
 sudo cp slack.repo /etc/yum.repos.d/slack.repo
 sudo dnf install slack
